@@ -1,0 +1,7 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "shellcheck"
+brew "shfmt"
+brew "hub"
